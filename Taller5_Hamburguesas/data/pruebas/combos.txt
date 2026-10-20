@@ -1,0 +1,3 @@
+combo corral;10%;corral;papas medianas;gaseosa
+
+combo todoterreno;7%;todoterreno;papas grandes;gaseosa
