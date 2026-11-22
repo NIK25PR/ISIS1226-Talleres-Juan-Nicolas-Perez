@@ -10,5 +10,5 @@ La aplicación se debe ejecutar con la raíz del proyecto como directorio de tra
 
 ## Uso
 - **Nuevo**: abre una ventana para crear un restaurante. Se hace click en el mapa para marcar su ubicación.
-- **Ver todos**: abre el mapa con todos los restaurantes (verde = visitado, rojo = no visitado).
+- - **Ver todos**: abre el mapa con todos los restaurantes marcados en rojo.
   Con los botones "Todos" / "Visitados" se filtra lo que se muestra.
